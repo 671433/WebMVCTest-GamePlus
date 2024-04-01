@@ -1,0 +1,10 @@
+﻿global using Microsoft.EntityFrameworkCore;
+global using WebMVCTest.Data;
+global using System.ComponentModel.DataAnnotations;
+global using Microsoft.AspNetCore.Mvc;
+global using WebMVCTest.ViewModels;
+global using  Microsoft.AspNetCore.Mvc.Rendering;
+global using WebMVCTest.Services;
+global using WebMVCTest.Models;
+global using WebMVCTest.Setting;
+global using WebMVCTest.Attributes;
